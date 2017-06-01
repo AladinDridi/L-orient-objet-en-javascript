@@ -1,0 +1,30 @@
+body{
+	background-color: #ECCA85;
+}
+
+h1{
+	color:red;  
+} 
+h2 {
+	color : blue ; 
+	font-family: arial , verdana  ; 
+	font-size: 1.6em;
+} 
+h3{
+	color:green; 
+	text-align: center; 
+	font-style: italic; 
+} 
+ul ,li{
+	display: block;  
+	padding-left: 72px;
+} 
+figure{
+	text-align: center;
+} 
+p{
+font-size:1.8em;}
+p[title="titre"]{
+	font-family: verdana ;
+	font-size: 3.3em;
+}
